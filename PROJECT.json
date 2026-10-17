@@ -1,0 +1,33 @@
+{
+  "project_id": "P011",
+  "github_repository_id": 1264742191,
+  "title_en": "Time Match",
+  "title_zh": "第七關・時光對對碰",
+  "category": "install",
+  "topics": [
+    "archaeology",
+    "touchscreen"
+  ],
+  "repository_full_name": "jackeytw886/time_match",
+  "repository_url": "https://github.com/jackeytw886/time_match",
+  "default_branch": "main",
+  "visibility": "public",
+  "aliases": [],
+  "suggested_name": "install-time-match",
+  "repository_status": "connected",
+  "content_state": "source-present",
+  "lifecycle": "unknown",
+  "pages_enabled": true,
+  "deployment_url": "https://jackeytw886.github.io/time_match",
+  "event_year": null,
+  "entry_paths": [
+    "index.html"
+  ],
+  "related_project_ids": [],
+  "handoff_path": "HANDOFF.md",
+  "verification_source": "github-tree-and-readme",
+  "verified_at": "2026-10-17T20:41:56+08:00",
+  "source_baseline_sha": "8bbba51a93d6652535e74d746a3bb5b31f7c1406",
+  "last_runtime_verified_sha": null,
+  "naming_status": "preserved-for-pages"
+}
